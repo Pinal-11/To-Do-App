@@ -1,0 +1,3 @@
+# To-Do-App
+in this app user can add and delete the their tasks and aslo admin can manage the objects via djagno-admin panel...
+
